@@ -2,7 +2,7 @@
 
 I'm Mateo, a 27 years old front-end developer from Montevideo, Uruguay.
 
-- 🚀 Founder and developer at @EME-Studio
+- 🚀 Founder and developer at [EME-Studio](https://github.com/EME-Studio)
 
 ## Skills
 
