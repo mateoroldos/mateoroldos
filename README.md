@@ -8,7 +8,8 @@ I'm Mateo, a 27 years old front-end developer from Montevideo, Uruguay.
 
 - 👨‍💻 TypeScript | JavaScript
 - ⚙️ Svelte | React | WordPress
-- 👁 SASS | CSS
+- 🧰 SvelteKit | Next.js | Gatsby
+- 👁 CSS | SASS
 - 💄 Figma | Illustrator | Photoshop
 
 ## Contact
