@@ -1,4 +1,4 @@
-# Hey! 👋
+# Hi! 👋
 
 I'm Mateo, a 27 years old front-end developer from Montevideo, Uruguay.
 
@@ -7,7 +7,7 @@ I'm Mateo, a 27 years old front-end developer from Montevideo, Uruguay.
 ## Skills
 
 - 👨‍💻 TypeScript | JavaScript
-- ⚙️ React | Svelte | WordPress
+- ⚙️ Svelte | React | WordPress
 - 👁 SASS | CSS
 - 💄 Figma | Illustrator | Photoshop
 
