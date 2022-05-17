@@ -13,4 +13,4 @@ I'm Mateo, a 27 years old front-end developer from Montevideo, Uruguay.
 
 ## Contact
 
-- mateo@emestudio.dev` `
+- mateo@emestudio.dev
