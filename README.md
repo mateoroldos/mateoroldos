@@ -8,9 +8,9 @@ I'm Mateo, a 28 years old front-end developer from Montevideo, Uruguay 🇺🇾.
 ## Skills
 
 - 👨‍💻 TypeScript | JavaScript
-- ⚙️ Svelte | React | WordPress
-- 🧰 SvelteKit | Next.js | Gatsby
-- 👁 CSS | SASS
+- ⚙️ Svelte | React
+- 🧰 SvelteKit | Next.js
+- 👁 CSS | SASS | Tailwind
 - 💄 Figma | Illustrator | Photoshop
 
 ## Contact
